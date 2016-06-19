@@ -1,14 +1,26 @@
-layout_spectrum: 0.8357063
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6989247
 color:
   saturation: 0.3015847
-  lightness: 0.7247735
   brandStrength: 0.5604385
-  rhythmicContrast: 0.08759324
+  lightness: 0.8315412
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.6989247
+  rhythmicContrast: 0.08759324
+layout_spectrum: 0.8357063
 name: Sentences
