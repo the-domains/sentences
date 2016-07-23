@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-07-23T18:37:19.360Z'
+datePublished: '2016-07-23T18:40:48.618Z'
+sourcePath: _posts/2016-07-23-augmented-reality-mobile-game.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-23T18:37:08.169Z'
+dateModified: '2016-07-23T18:40:47.922Z'
 title: Augmented Reality Mobile Game
 publisher: {}
 description: >-
@@ -20,11 +21,10 @@ description: >-
   technology. My country is not Pokémon service area at this time, so I can’t
   play it, But I enjoy the anime series, watching them again after the long time
   of its absence.
-inNav: false
+inNav: true
 starred: false
-sourcePath: _posts/2016-07-23-augmented-reality-mobile-game.md
 url: augmented-reality-mobile-game/index.html
-_type: MediaObject
+_type: WebPage
 
 ---
 # Augmented Reality Mobile Game
