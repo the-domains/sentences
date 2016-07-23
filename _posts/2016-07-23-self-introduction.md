@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-23T17:58:07.054Z'
+datePublished: '2016-07-23T18:21:36.974Z'
 sourcePath: _posts/2016-07-23-self-introduction.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2e9356-d876-4883-9ff0-22b02b0a1380.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T17:57:52.165Z'
+dateModified: '2016-07-23T18:21:36.305Z'
 title: Self Introduction
 publisher: {}
 description: Hello!
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: self-introduction/index.html
 _type: MediaObject
 
 ---
