@@ -24,3 +24,8 @@ color:
   rhythmicContrast: 0.08759324
 layout_spectrum: 0.8357063
 name: Sentences
+navigation:
+  - id: 923d0e9a-5397-4ad4-990c-ad4b381fd9bf
+    url: 2016-07-23-self-introduction.html
+    name: ' Things I do, read, think'
+    type: content
